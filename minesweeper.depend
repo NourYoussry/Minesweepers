@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514210671 source:d:\learn\c_toutorials\lab5\minesweeper\main.c
+	<stdio.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	<time.h>
+	<windows.h>
+	"leaderboard.h"
+
+1514216102 source:d:\learn\c_toutorials\lab5\minesweeper\leaderboard.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	"leaderboard.h"
+
+1514113419 d:\learn\c_toutorials\lab5\minesweeper\leaderboard.h
+
